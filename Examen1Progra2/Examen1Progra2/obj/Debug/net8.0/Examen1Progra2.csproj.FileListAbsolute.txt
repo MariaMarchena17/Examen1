@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\bin\Debug\net8.0\Examen1Progra2.exe
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\bin\Debug\net8.0\Examen1Progra2.deps.json
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\bin\Debug\net8.0\Examen1Progra2.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\bin\Debug\net8.0\Examen1Progra2.dll
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\bin\Debug\net8.0\Examen1Progra2.pdb
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\obj\Debug\net8.0\Examen1Progra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\obj\Debug\net8.0\Examen1Progra2.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\obj\Debug\net8.0\Examen1Progra2.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\obj\Debug\net8.0\Examen1Progra2.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\obj\Debug\net8.0\Examen1Progra2.dll
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\obj\Debug\net8.0\refint\Examen1Progra2.dll
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\obj\Debug\net8.0\Examen1Progra2.pdb
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\obj\Debug\net8.0\Examen1Progra2.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\U\Porgramacion1  Q12024\Examen1Progra2\Examen1Progra2\obj\Debug\net8.0\ref\Examen1Progra2.dll
